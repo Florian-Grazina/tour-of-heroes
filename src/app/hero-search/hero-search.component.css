@@ -1,0 +1,38 @@
+label {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+input {
+    margin: 20px;
+    padding: 7px;
+    height: 20px;
+    background-color: #444;
+    border: solid white 1px;
+    border-radius: 3px;
+    color: black;
+    outline: none;
+}
+
+li {
+    text-decoration: none;
+    list-style: none;
+    background-color: #44444480;
+    border: solid black 1px;
+    border-radius: 3px;
+    margin: 5px;
+    padding: 7px;
+    width: 179px;
+    height: 20px;
+}
+
+a {
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    text-decoration: none;
+}
+
+li:hover {
+    background-color: #a1a1a180;
+}

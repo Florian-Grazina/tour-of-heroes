@@ -1,0 +1,15 @@
+.bottom-button {
+    padding: 10px;
+}
+
+.bottom-button:hover {
+    background-color: black;
+}
+
+.back {
+    background-color: rgba(80, 44, 44, 0.295);
+}
+
+.save {
+    background-color: rgba(25, 65, 17, 0.356);
+}
